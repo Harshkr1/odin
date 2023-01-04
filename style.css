@@ -1,0 +1,89 @@
+* {
+    font-family: cursive;
+}
+
+img {
+    height: auto;
+    width: 450px;
+    border: 5px solid;
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 66px;
+
+}
+
+.index {
+    background-color: rgb(0, 214, 252);
+}
+
+.one,
+.two,
+.three {
+    font-style: oblique;
+    font-weight: 800;
+}
+
+#heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+}
+
+.samosa {
+    background-color: plum;
+}
+
+.title1,
+.title3,
+#title2 {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+.page1{
+    background-color:rgb(190, 235, 255);
+}
+.page2
+{
+    background-color: whitesmoke;
+}
+.page3 {
+    background-color: aquamarine;
+}
+
+.dev3,
+.dev2,
+.dev1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+    font-weight: 900;
+    font-stretch: ultra-expanded;
+}
+.des4,
+.des5,
+.des2,
+.des3,
+.des1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.step1,
+.step2,
+.step3,
+.ing2,
+.ing3,
+.ing1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+.div
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
